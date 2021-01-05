@@ -5,7 +5,7 @@ Include the date you created this project and README file. edited
 Replace the Project Title edited
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does edited
 
 ### Files used
 Include the files used
