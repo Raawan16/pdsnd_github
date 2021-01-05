@@ -8,7 +8,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 def check_input(input_str,input_type):
     """
-    check the validity of user input.
+    check the validity of The user input.
     input_str: is the input of the user
     input_type: is the type of input: 1 = city, 2 = month, 3 = day
     """
